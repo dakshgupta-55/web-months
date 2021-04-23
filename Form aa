@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> EVENT REGISTRATION </title>
+</head>
+<body>
+<div>
+<header>
+<h1>FILL THIS FORM FOR THE ACCIDENTAL CREATOR EVENT</h1>
+<p> This form will help to give you direct entry to the event with no registration fees . this event is organised by international company</p>
+<p>if you miss this opportunity then you will regret a lot because this event will help you to build confidence and give you prize money upto 50000 rs.</p>
+<hr>
+</header>
+<form action="." id ="form">
+<input type="text" placeholder=" your good name ">
+</br>
+<input type="text" placeholder="date">
+</br>
+<input type="email" placeholder="email">
+</br>
+<input type="tel" placeholder="contact">
+</br>
+<input type="radio" id="male" name="gender" value="Male">
+<label for="male">Male</label>
+</br>
+<input type="radio" id="female" name="gender" value=" Female">
+<label for=" female">Female</label>
+</br>
+<hr>
+<p>how many members will you bring with you?</p>
+<select name="member" id="member">
+<option value="none">none</option>
+<option value="1">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</br>
+<input type="suggestion value="submit" placeholder="suggestion">
+</br>
+<button form="my form" id="form" type="submit" width="100cm"></button>
+
+
+</form>
+</div>
+</body>
+</html>
